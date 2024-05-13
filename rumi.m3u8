@@ -91,11 +91,42 @@ https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Arre_Brand_UDigital_Logo.png/800px-Arre_Brand_UDigital_Logo.png", ARRE 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/arre/9a6c5aa3-8997-44e7-8b8e-604e286bed85/0.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" , SONY HD 
+http://sansat.net:88/02029761595924/9d089925dc60a821/100806 
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" , SONY 
+http://sansat.net:88/02029761595924/9d089925dc60a821/96179 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s" , SONY MAX 
+http://sansat.net:88/02029761595924/9d089925dc60a821/96180 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png" , MAX 2
+http://sansat.net:88/02029761595924/9d089925dc60a821/96181
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" , PIX HD 
+http://sansat.net:88/02029761595924/9d089925dc60a821/96182
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" , BBC EARTH 
+http://sansat.net:88/02029761595924/9d089925dc60a821/96183
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" , SAB HD 
+http://sansat.net:88/02029761595924/9d089925dc60a821/96184
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_pal.jpg" , SONY PAL 
+http://sansat.net:88/02029761595924/9d089925dc60a821/96185
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png" , SONY WAH 
+http://sansat.net:88/02029761595924/9d089925dc60a821/96186
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFt2Eg3HCb8zXCDrsB7ASTegaDhUD7ar-U8TSfILmpSBVUb2Fpo_KpVqK&s=10", SONY KAL 
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBfRe8sRcZyE60HCAJxsM4zsOXWlQ8pq5ntJj5z56XoZPNzahxQ2S7c_NBiOHgj5AVgZjk", SONY AATH 
 http://sansat.net:88/02029761595924/9d089925dc60a821/100696
 
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png", & PICTURES
+http://sansat.net:88/02029761595924/9d089925dc60a821/96197
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8aV03LgCjuRuOTa7coldfb13-tnoeUAU8p8RkGquTTVanNh5048008I&s=10" , ZEE ANMOL CINEMA 2
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
