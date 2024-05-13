@@ -215,6 +215,16 @@ http://xtv.ooo:8080/adnankb2006/86057314/150482
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png"group-title=" ",GUBBARE KIDS 
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
+#EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="", NICK BANGLA 
+http://b1g.ooo:80/Bruno/Bruno/672354
+#EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqTaATVYqBqL-MGHjWCTx5OazmSYUI_MBqoWJk0l36n9u1_LWhK_rYrE&s=10" group-title="", SONIC BANGLA 
+http://b1g.ooo:80/Bruno/Bruno/672355
+#EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrF1QZPifMLXfBePdlPPxiY452DJZT1dL1ix4OZ0DSGP_QTgpBqYlzPi8&s=10" group-title="", SONY YAY BANGLA 
+http://b1g.ooo:80/live/Bruno/Bruno/407108
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png" group-title="", COLORS BANGLA HD 
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8 
