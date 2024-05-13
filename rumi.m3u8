@@ -334,6 +334,9 @@ http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
 #EXTINF:-4 tvg-logo="https://i.ibb.co/JdBx7PM/20240430-222409.png"group-title="", ATN BANGLA
 http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png", NAGORIK TV
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=IpPSd8rc_zdr7GjtWrMKrg&expires=1715786449&user=ff39d05fef0749028389f28943b73363
+
 #EXTINF:-6 tvg-logo="https://i.ibb.co/r6gfJRm/20240430-214150.png"group-title="", CHANNEL I HD
 https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 #EXTINF:-6 tvg-logo="https://i.ibb.co/r6gfJRm/20240430-214150.png"group-title="", CHANNEL I HD
