@@ -110,13 +110,13 @@ http://sansat.net:88/02029761595924/9d089925dc60a821/96171
 http://sansat.net:88/02029761595924/9d089925dc60a821/96259
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVV7aEf69log_p-Ra5kjkM6q2q3RYk3bBsIFqC7COGvA&s"group-title=" ", STAR PLUS 
-http://b1g.ooo:80/live/Bruno/Bruno/161935.ts
+ 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVV7aEf69log_p-Ra5kjkM6q2q3RYk3bBsIFqC7COGvA&s"group-title=" ", STAR PLUS HD
 http://xtv.ooo:8080/adnankb2006/86057314/109949
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPLQ5OIfsaEN37-CQuTJBJM5G-9DwH9m3nlg&usqp=CAU"group-title=" ", STAR BHARAT HD
-http://b1g.ooo:80/live/Bruno/Bruno/161926.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLOpeWw-QhGp6coIC1G-KJRD_pOKsBw4Mi9g&usqp=CAU"group-title=" ", STAR BHARAT HD
 http://sansat.net:88/02029761595924/9d089925dc60a821/96173
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold.png", STAR GOLD HD
@@ -216,11 +216,11 @@ http://xtv.ooo:8080/adnankb2006/86057314/150482
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
 #EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="", NICK BANGLA 
-http://b1g.ooo:80/live/Bruno/Bruno/672354.ts
+ 
 #EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqTaATVYqBqL-MGHjWCTx5OazmSYUI_MBqoWJk0l36n9u1_LWhK_rYrE&s=10" group-title="", SONIC BANGLA 
-http://b1g.ooo:80/live/Bruno/Bruno/672355.ts
+ 
 #EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrF1QZPifMLXfBePdlPPxiY452DJZT1dL1ix4OZ0DSGP_QTgpBqYlzPi8&s=10" group-title="", SONY YAY BANGLA 
-http://b1g.ooo:80/live/Bruno/Bruno/407108.ts
+ 
 
 
 
