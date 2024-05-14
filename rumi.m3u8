@@ -11,6 +11,9 @@ https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=21elNFu9Nbevi-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaywxR8QNjpMo7vC2OEyZl9ls1GN7H0aP2Fw&usqp=CAU", ATN 
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3gBCLvELDj_4ASobwC535g0pcdKoCdMCZuTD7-hC34hXNHJVaQuzxdHv&s=10" group-title="", IPL LIVE 
+https://jancdn-b.bunycdn.com/live/480pa.m3u8
+
+#EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3gBCLvELDj_4ASobwC535g0pcdKoCdMCZuTD7-hC34hXNHJVaQuzxdHv&s=10" group-title="", IPL LIVE 
 https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
 #EXTINF: -1 tvg-id="FreeDishBhai" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3gBCLvELDj_4ASobwC535g0pcdKoCdMCZuTD7-hC34hXNHJVaQuzxdHv&s=10" group-title="", IPL LIVE 
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
