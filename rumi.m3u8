@@ -11,11 +11,13 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:-1 , MAX SD 
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 
-#EXTINF:-1, DISCOVERY HD
+#EXTINF:-1, DISCOVERY HD 
 https://freeott.site/discovery/Discovery_Channel.m3u8
 
 #EXTINF-1, DISCOVARY KIDS 
 https://freeott.site/discovery/Discovery_Kids.m3u8
+
+
 #EXTINF:-1 , ENTER 10 BANGLA 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 , DANGAL TV 
